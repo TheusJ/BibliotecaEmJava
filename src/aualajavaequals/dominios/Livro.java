@@ -124,6 +124,7 @@ public class Livro extends aulaequalsjava{
             int menuOp = texto.nextInt();
             texto.nextLine();
             
+            
             if(menuOp == 1){
                 System.out.println("Quantidade de livros: ");
                 double qntdCompras = texto.nextDouble();
